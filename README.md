@@ -1,5 +1,5 @@
 # cringehosting-gamedev
 Repo for GameDev purposes
-#Branches
-Website - web interface for developers
-Projects - current projects
+# Branches
+1. Website - web interface for developers
+2. Projects - current projects subrepos
